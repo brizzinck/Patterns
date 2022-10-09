@@ -1,0 +1,15 @@
+﻿using Template_method.Templates;
+using Template_method.Extensions;
+Console.WriteLine("SECRET TEMPLATE");
+var secretTemplate = new SecretDocumentTemplate();
+var result = secretTemplate.GetTemplate("This is a template of sercet document");
+Console.WriteLine(result);
+Console.WriteLine("---");
+Console.WriteLine(secretTemplate.DecodeString(result));
+Console.WriteLine("--------------");
+Console.WriteLine("HTML TEMPLATE");
+var htmlTemplate = new HtmlTemplate("New Article");
+var htmlResult = htmlTemplate.GetTemplate("This is the page with new c# article");
+Console.WriteLine(htmlResult);
+Console.WriteLine("---");
+Console.WriteLine(htmlTemplate.DecodeString(htmlResult));
