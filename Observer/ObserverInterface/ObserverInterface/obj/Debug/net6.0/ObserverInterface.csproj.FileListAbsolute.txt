@@ -1,0 +1,15 @@
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\bin\Debug\net6.0\ObserverInterface.exe
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\bin\Debug\net6.0\ObserverInterface.deps.json
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\bin\Debug\net6.0\ObserverInterface.runtimeconfig.json
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\bin\Debug\net6.0\ObserverInterface.dll
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\bin\Debug\net6.0\ObserverInterface.pdb
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.csproj.AssemblyReference.cache
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.AssemblyInfoInputs.cache
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.AssemblyInfo.cs
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.dll
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\refint\ObserverInterface.dll
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.pdb
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ObserverInterface.genruntimeconfig.cache
+D:\C#\Patterns\Observer\ObserverInterface\ObserverInterface\obj\Debug\net6.0\ref\ObserverInterface.dll
