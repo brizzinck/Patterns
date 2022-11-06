@@ -1,0 +1,15 @@
+D:\C#\Patterns\State\State\bin\Debug\net6.0\State.exe
+D:\C#\Patterns\State\State\bin\Debug\net6.0\State.deps.json
+D:\C#\Patterns\State\State\bin\Debug\net6.0\State.runtimeconfig.json
+D:\C#\Patterns\State\State\bin\Debug\net6.0\State.dll
+D:\C#\Patterns\State\State\bin\Debug\net6.0\State.pdb
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.csproj.AssemblyReference.cache
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.dll
+D:\C#\Patterns\State\State\obj\Debug\net6.0\refint\State.dll
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.pdb
+D:\C#\Patterns\State\State\obj\Debug\net6.0\State.genruntimeconfig.cache
+D:\C#\Patterns\State\State\obj\Debug\net6.0\ref\State.dll
