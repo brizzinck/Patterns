@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("AbstractFactoryCodeblog")]
+[assembly: AssemblyTitle("AbstractFactoryBL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AbstractFactoryCodeblog")]
+[assembly: AssemblyProduct("AbstractFactoryBL")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("4837cf83-3fae-4c7b-8a34-35a62a3a298a")]
+[assembly: Guid("df340983-d4f1-405f-a7e4-2f84edc80721")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
